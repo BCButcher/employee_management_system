@@ -1,0 +1,27 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "Associate Tracker (Homework)",
+  "main": "app.js",
+  "dependencies": {
+    "ascii-art": "^2.1.6",
+    "ascii-art-table": "^1.0.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCButcher/employee_tracker.git"
+  },
+  "author": "Brian C Butcher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BCButcher/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/BCButcher/employee_tracker#readme"
+}
